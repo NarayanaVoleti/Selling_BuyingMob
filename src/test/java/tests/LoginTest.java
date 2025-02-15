@@ -7,7 +7,7 @@ public class LoginTest extends BaseTest{
 
     @Test
     public void loginApplication(){
-
+// login test
     }
 
     @Test
